@@ -29,7 +29,7 @@
 
 <h2>Captura de pantalla</h2>
 <p>
-  <img src="https://raw.githubusercontent.com/tu‑usuario/tu‑repo/main/assets/screenshot.png" alt="Captura de pantalla del Weather Dashboard">
+  <img src="https://raw.githubusercontent.com/MituNakan/tu‑repo/main/assets/screenshot.png" alt="Captura de pantalla del Weather Dashboard">
 </p>
 
 <h2>Instalación</h2>
@@ -57,12 +57,12 @@ npm run dev   # o yarn dev
 
 <h2>Contribuir</h2>
 <p>
-  Las contribuciones son bienvenidas. Por favor, abre un <a href="https://github.com/tu-usuario/weather-dashboard/issues" target="_blank">issue</a> antes de enviar un pull request para discutir cambios importantes.
+  Las contribuciones son bienvenidas. Por favor, abre un <a href="https://github.com/MituNakan/weather-dashboard/issues" target="_blank">issue</a> antes de enviar un pull request para discutir cambios importantes.
 </p>
 
 <h2>Licencia</h2>
 <p>
-  Este proyecto está bajo la Licencia MIT. Ver el archivo <a href="https://github.com/tu-usuario/weather-dashboard/blob/main/LICENSE" target="_blank">LICENSE</a> para más detalles.
+  Este proyecto está bajo la Licencia MIT. Ver el archivo <a href="https://github.com/MituNakan/weather-dashboard/blob/main/LICENSE" target="_blank">LICENSE</a> para más detalles.
 </p>
 
 <hr>
