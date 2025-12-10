@@ -41,7 +41,7 @@ cd weather-dashboard
 npm install   # o yarn
 
 # Configura la clave de API (crea un archivo .env)
-echo "VITE_OWM_API_KEY=TU_CLAVE_DE_API" &gt;&gt; .env
+echo "VITE_OWM_API_KEY" &gt;&gt; .env
 
 # Inicia la aplicación en modo desarrollo
 npm run dev   # o yarn dev
@@ -50,7 +50,7 @@ npm run dev   # o yarn dev
 <h2>Uso</h2>
 <p>
   1️⃣ Abre <code>http://localhost:5173</code> en tu navegador.<br>
-  2️⃣ Escribe el nombre de una ciudad (ejemplo: <em>Madrid</em>) y presiona <strong>Enter</strong>.<br>
+  2️⃣ Escribe el nombre de una ciudad y presiona <strong>Enter</strong>.<br>
   3️⃣ Explora el clima actual y el pronóstico de los próximos días.<br>
   4️⃣ Opcionalmente, arrastra el marcador del mapa para buscar por coordenadas.
 </p>
